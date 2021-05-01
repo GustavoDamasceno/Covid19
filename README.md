@@ -16,17 +16,21 @@ Além de trazer as notificações dos casos de covid o aplicativo informa meios 
 
 ### Sobre a API
 
-Lista de casos por estado brasileiro.
+Lista de casos por estado brasileiro.<br />
+
 link: (https://covid19-brazil-api.now.sh/api/report/v1/brazil/uf/sp)
 
 Respostas de Sucesso<br />
+
 Condição : UF inválido ou sem registros.<br />
+
 Code : 200 OK<br />
+
 Conteúdo : {"error": "state not found"}<br />
 OU<br />
 Code : 200 OK<br />
-Conteúdo :<br />
 
+Conteúdo :<br />
 ```
 {
   "uid": 35,
