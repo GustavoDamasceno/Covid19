@@ -1,4 +1,4 @@
-## 1. Aplicação
+## CovidCE
 
 A aplicação tem como propósito notificar casos de doença pelo Corona vírus no estado do Ceará. Os dados são atualizados pela Organização Mundial de Saúde (em inglês: World Health Organization - WHO)
 
@@ -6,13 +6,13 @@ A aplicação tem como propósito notificar casos de doença pelo Corona vírus 
 
 Na qual é uma agência especializada em saúde, fundada em 7 de abril de 1948 e subordinada à Organização das Nações Unidas. Sua sede é em Genebra, na Suíça.
 
-O aplicativo informa meios de prevenção da doença e além disso traz notícias sobre a doença de fontes confiáveis evitando a disseminação de fake news.
+O aplicativo informa meios de prevenção da doença e também traz notícias sobre a doença de fontes confiáveis evitando a disseminação de fake news.
 
 ![](https://pbs.twimg.com/media/E0UJ7buX0AI4MnR?format=jpg&name=medium)
 
 
 
-## 2. Desenvolvimento
+## Desenvolvimento
 
 
 
