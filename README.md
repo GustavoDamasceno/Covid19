@@ -1,8 +1,3 @@
-# CovidCE
-
-1. Aplicação
-2. Desenvolvimento
-
 ## 1. Aplicação
 
 A aplicaço tem como propósito notificar casos de doença pelo Corona vírus no estado do Ceará. Os dados são atualizados pela Organização Mundial de Saúde (em inglês: World Health Organization - WHO)
