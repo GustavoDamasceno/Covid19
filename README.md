@@ -14,7 +14,7 @@ Além de trazer as notificações dos casos de covid o aplicativo informa meios 
 
 ## Desenvolvimento
 
-#Sobre a API
+# Sobre a API
 
 
 ## Getting Started
