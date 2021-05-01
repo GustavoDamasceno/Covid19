@@ -17,7 +17,6 @@ Além de trazer as notificações dos casos de covid o aplicativo informa meios 
 ### Sobre a API
 
 Lista de casos por estado brasileiro.<br />
-
 link: (https://covid19-brazil-api.now.sh/api/report/v1/brazil/uf/sp)
 
 Respostas de Sucesso<br />
