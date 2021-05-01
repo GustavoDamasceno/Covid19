@@ -3,7 +3,7 @@
 1. Aplicação
 2. Desenvolvimento
 
-## 1. Aplicaço
+## 1. Aplicação
 
 A aplicaço tem como propósito notificar casos de doença pelo Corona vírus no estado do Ceará. Os dados são atualizados pela Organização Mundial de Saúde (em inglês: World Health Organization - WHO)
 
@@ -19,19 +19,7 @@ O aplicativo informa meios de prevenção da doença e além disso traz notícia
 
 ## 2. Desenvolvimento
 
-O projeto foi desenvolvido com o IONIC framework utilizando a API [NewsAPI.org](https://newsapi.org/).
 
-![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiRn4L2w67kAhVvH7kGHT9oCC4QjRx6BAgBEAQ&url=https%3A%2F%2Fblog.api.rakuten.net%2Ftop-10-best-news-apis%2F&psig=AOvVaw1lEi6kjegoCscsGkJ_g2cI&ust=1567389731636126)
-Para saber mais sobre a API, basta acessar a [documentação](https://newsapi.org/docs).
-
-
-![Alt Text](https://media.giphy.com/media/QVI4FRJ0UrGCYgOXUb/giphy.gif)
-
-![](https://pbs.twimg.com/media/EDWJclyU4AElMRc?format=png&name=small)
-
-![](https://pbs.twimg.com/media/EDWJzldXUAAt15Q?format=png&name=small)
-
-![](https://pbs.twimg.com/media/EDWKCtIWwAAMcJe?format=png&name=small)
 
 ## Getting Started
 
