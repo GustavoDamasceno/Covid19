@@ -1,12 +1,6 @@
-# APIexample
+# CovidCE
 
-Projeto Flutter com propóstio de consumir uma API com Flutter de forma simples e rápida, para isso utilizei os dois links abaixo.
-
-Links:
-
-Json Placeholder: https://jsonplaceholder.typicode.com/users
-
-Json to Dart: https://javiercbk.github.io/json_to_dart/
+Notificações de casos de doença pelo Corona vírus no estado do Ceará
 
 ## Getting Started
 
