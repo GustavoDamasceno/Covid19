@@ -43,6 +43,7 @@ Conteúdo :<br />
 
 ### Sobre a aplicação
 
+Falta construir as suas telas de prevenção e notícias.
 
 ## Getting Started
 
