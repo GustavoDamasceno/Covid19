@@ -1,6 +1,6 @@
 ## 1. Aplicação
 
-A aplicaço tem como propósito notificar casos de doença pelo Corona vírus no estado do Ceará. Os dados são atualizados pela Organização Mundial de Saúde (em inglês: World Health Organization - WHO)
+A aplicação tem como propósito notificar casos de doença pelo Corona vírus no estado do Ceará. Os dados são atualizados pela Organização Mundial de Saúde (em inglês: World Health Organization - WHO)
 
 ![](https://logo-logos.com/wp-content/uploads/2016/12/World_Health_Organization_logo.png)
 
