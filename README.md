@@ -27,6 +27,20 @@ OU<br />
 Code : 200 OK<br />
 Conteúdo :<br />
 
+```
+{
+  "uid": 35,
+  "uf": "SP",
+  "state": "São Paulo",
+  "cases": 631,
+  "deaths": 22,
+  "suspects": 5334,
+  "refuses": 596,
+  "datetime": "2020-03-22T23:57:17.225Z"
+}
+
+```
+
 
 ## Getting Started
 
